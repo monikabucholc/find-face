@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/find-face/static/css/main.7765245a.css",
-    "main.js": "/find-face/static/js/main.a3933902.js",
+    "main.css": "/find-face/static/css/main.e2ae680b.css",
+    "main.js": "/find-face/static/js/main.295e30ee.js",
     "static/js/787.41c8e7ec.chunk.js": "/find-face/static/js/787.41c8e7ec.chunk.js",
-    "static/media/ernest-brillo-bO3lEGHbk2M-unsplash.jpg": "/find-face/static/media/ernest-brillo-bO3lEGHbk2M-unsplash.faf2eacbee19a87b97dd.jpg",
-    "static/media/vector-background.svg": "/find-face/static/media/vector-background.5420dbef709e4a6a9e39.svg",
-    "static/media/material-symbols_familiar-face-and-zone-sharp.svg": "/find-face/static/media/material-symbols_familiar-face-and-zone-sharp.62a546b062cab29be0a93d6849cdc9dd.svg",
+    "static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.jpg": "/find-face/static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.25a025a390727b350c85.jpg",
+    "static/media/face-man.png": "/find-face/static/media/face-man.2553b955b9b38be24feb.png",
+    "static/media/face-woman.png": "/find-face/static/media/face-woman.13086df20c0841a59927.png",
+    "static/media/material-symbols_familiar-face-and-zone-sharp.svg": "/find-face/static/media/material-symbols_familiar-face-and-zone-sharp.4622a7f7f25b6d4908b4c425a6969078.svg",
+    "static/media/gradient-curves.svg": "/find-face/static/media/gradient-curves.94ab6917622fc2efad06.svg",
     "index.html": "/find-face/index.html",
-    "main.7765245a.css.map": "/find-face/static/css/main.7765245a.css.map",
-    "main.a3933902.js.map": "/find-face/static/js/main.a3933902.js.map",
+    "main.e2ae680b.css.map": "/find-face/static/css/main.e2ae680b.css.map",
+    "main.295e30ee.js.map": "/find-face/static/js/main.295e30ee.js.map",
     "787.41c8e7ec.chunk.js.map": "/find-face/static/js/787.41c8e7ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7765245a.css",
-    "static/js/main.a3933902.js"
+    "static/css/main.e2ae680b.css",
+    "static/js/main.295e30ee.js"
   ]
 }
