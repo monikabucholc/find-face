@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/find-face/static/css/main.87a773f8.css",
-    "main.js": "/find-face/static/js/main.8a74eeac.js",
+    "main.css": "/find-face/static/css/main.c38bd360.css",
+    "main.js": "/find-face/static/js/main.ea73c607.js",
     "static/js/787.41c8e7ec.chunk.js": "/find-face/static/js/787.41c8e7ec.chunk.js",
     "static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.jpg": "/find-face/static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.25a025a390727b350c85.jpg",
     "static/media/face-man.png": "/find-face/static/media/face-man.2553b955b9b38be24feb.png",
@@ -9,12 +9,12 @@
     "static/media/material-symbols_familiar-face-and-zone-sharp.svg": "/find-face/static/media/material-symbols_familiar-face-and-zone-sharp.4622a7f7f25b6d4908b4c425a6969078.svg",
     "static/media/gradient-curves.svg": "/find-face/static/media/gradient-curves.94ab6917622fc2efad06.svg",
     "index.html": "/find-face/index.html",
-    "main.87a773f8.css.map": "/find-face/static/css/main.87a773f8.css.map",
-    "main.8a74eeac.js.map": "/find-face/static/js/main.8a74eeac.js.map",
+    "main.c38bd360.css.map": "/find-face/static/css/main.c38bd360.css.map",
+    "main.ea73c607.js.map": "/find-face/static/js/main.ea73c607.js.map",
     "787.41c8e7ec.chunk.js.map": "/find-face/static/js/787.41c8e7ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87a773f8.css",
-    "static/js/main.8a74eeac.js"
+    "static/css/main.c38bd360.css",
+    "static/js/main.ea73c607.js"
   ]
 }
