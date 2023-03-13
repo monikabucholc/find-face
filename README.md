@@ -4,7 +4,7 @@
 
 ## About the Project ##
 
-Add photo URL and detect faces with **Find Face**. Additionally, the app uses photo recognition technology to provide tags for the uploaded photos, based on the objects, people, or scenes it recognizes within them. The app keeps track of the user's most recent photo uploads and updates the total number of photos uploaded. Users can access all of their uploaded photos and information by logging in to the app. 
+Add photo URL and detect faces with **Find Face**. The app uses photo recognition technology to localize and count faces. Additionally it provides tags for the uploaded photos, based on the objects, people, or scenes it recognizes within them. **Find Face** keeps track of the user's most recent photo uploads and updates the total number of photos uploaded. 
 
 
 ## Technologies & Tools ##
@@ -27,7 +27,7 @@ First version of this project, which I've built following the course used **Node
 * **React Router** to navigate between login, register and home page
 * Recreating visual prototype which I've built in **Figma**
 
-Although registration process is built using Firebase Authentication I have decided that users are allowed to use any credentials matching basic email format, without additional email confirmation to encourage trying and testing the app. There is also a Sample Account.
+Although registration process is built using Firebase Authentication, I have decided that you do not have to confirm credentials through additional email confirmation to encourage you to try and test the app. Feel free to use any data following typical email format or try provided Sample Account.
 
 ## Inspiration ##
 Idea for the project and main concept are based on <a href='https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/'>Zero To Mastery</a> course made by Andrei Neagoie.  
