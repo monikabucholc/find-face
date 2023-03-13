@@ -1,1 +1,33 @@
-# find-face
+<a href='https://monikabucholc.github.io/find-face/'><img src='https://github.com/monikabucholc/find-face/blob/main/src/img/logo.svg' height="36"/></a>
+
+<a href='https://monikabucholc.github.io/find-face/'>https://monikabucholc.github.io/find-face/</a>
+
+## About the Project ##
+
+Add photo URL and detect faces with **Find Face**. Additionally, the app uses photo recognition technology to provide tags for the uploaded photos, based on the objects, people, or scenes it recognizes within them. The app keeps track of the user's most recent photo uploads and updates the total number of photos uploaded. Users can access all of their uploaded photos and information by logging in to the app. 
+
+
+## Technologies & Tools ##
+
+* **React** 18.2.0
+* **React Router** 6.8.0
+* **<a href='https://www.clarifai.com/'>Clarifai</a>** API models are used for image recognition.
+* Authentication and Database are made with **<a href='https://firebase.google.com/'>Firebase</a>**
+* **React Firebase Hooks** 5.1.1 package 
+* **React Toastify** 9.1.1 package
+
+## Motivation ##
+Idea and main concept of this project is from Zero to Mastery course which I took previously. Since then I have adapted and rebuilt it, to learn new techniques and pracitce the ones learned on the course. I wanted to learn and practice:
+* **React Hooks**
+* **RESTful API**
+* **Asynchronicity** 
+First version of this project, which I've built following the course used **Node.js** + **Express.js** to set up the server and **PostreSQL** for database. While remaking the project once again on my own I have decided to try something else:
+* **Firestore Database**
+* **Firebase** Authentication
+* **React Router** to navigate between login, register and home page
+* Recreating visual prototype which I've built in **Figma**
+
+Although registration process is built using Firebase Authentication I have decided that users are allowed to use any credentials matching basic email format, without additional email confirmation to encourage trying and testing the app. There is also a Sample Account.
+
+## Inspiration ##
+Idea for the project and main concept are based on <a href='https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/'>Zero To Mastery</a> course made by Andrei Neagoie.  
