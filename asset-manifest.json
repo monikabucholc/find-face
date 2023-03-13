@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/find-face/static/css/main.c38bd360.css",
-    "main.js": "/find-face/static/js/main.ea73c607.js",
+    "main.js": "/find-face/static/js/main.f90be83c.js",
     "static/js/787.41c8e7ec.chunk.js": "/find-face/static/js/787.41c8e7ec.chunk.js",
     "static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.jpg": "/find-face/static/media/ernest-brillo-bO3lEGHbk2M-unsplash1.25a025a390727b350c85.jpg",
     "static/media/face-man.png": "/find-face/static/media/face-man.2553b955b9b38be24feb.png",
@@ -10,11 +10,11 @@
     "static/media/gradient-curves.svg": "/find-face/static/media/gradient-curves.94ab6917622fc2efad06.svg",
     "index.html": "/find-face/index.html",
     "main.c38bd360.css.map": "/find-face/static/css/main.c38bd360.css.map",
-    "main.ea73c607.js.map": "/find-face/static/js/main.ea73c607.js.map",
+    "main.f90be83c.js.map": "/find-face/static/js/main.f90be83c.js.map",
     "787.41c8e7ec.chunk.js.map": "/find-face/static/js/787.41c8e7ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c38bd360.css",
-    "static/js/main.ea73c607.js"
+    "static/js/main.f90be83c.js"
   ]
 }
