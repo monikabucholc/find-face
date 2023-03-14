@@ -21,13 +21,14 @@ Idea and main concept of this project is from Zero to Mastery course which I too
 * **React Hooks**
 * **Clarifai API**
 * **Asynchronicity** 
+
 First version of this project, which I've built following the course used **Node.js** + **Express.js** to set up the server and **PostgreSQL** for database. While remaking the project once again on my own I have decided to try something else:
 * **Firestore Database**
 * **Firebase** Authentication
 * **React Router** to navigate between login, register and home page
 * Recreating visual prototype which I've built in **Figma**
 
-Although registration process is built using Firebase Authentication, I have decided that you do not have to confirm credentials through additional email confirmation to encourage you to try and test the app. Feel free to use any data following typical email format or try provided Sample Account.
+Although registration process is built using Firebase Authentication, I have decided that you do not have to confirm credentials with confirmation email to encourage you to try and test the app. Feel free to use any data following typical email format or try provided Sample Account.
 
 ## Inspiration ##
 Idea for the project and main concept are based on <a href='https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/'>Zero To Mastery</a> course made by Andrei Neagoie.  
