@@ -11,8 +11,8 @@ Add photo URL and detect faces with **Find Face**. The app uses photo recognitio
 
 * **React** 18.2.0
 * **React Router** 6.8.0
-* **<a href='https://www.clarifai.com/'>Clarifai</a>** API models for image recognition
-* **<a href='https://firebase.google.com/'>Firebase</a>** for authentication and Database
+* **Clarifai** API models for image recognition
+* **Firebase** for authentication and Database
 * **React Firebase Hooks** 5.1.1 package 
 * **React Toastify** 9.1.1 package
 
