@@ -21,7 +21,7 @@ Idea and main concept of this project is from Zero to Mastery course which I too
 * **React Hooks**
 * **RESTful API**
 * **Asynchronicity** 
-First version of this project, which I've built following the course used **Node.js** + **Express.js** to set up the server and **PostreSQL** for database. While remaking the project once again on my own I have decided to try something else:
+First version of this project, which I've built following the course used **Node.js** + **Express.js** to set up the server and **PostgreSQL** for database. While remaking the project once again on my own I have decided to try something else:
 * **Firestore Database**
 * **Firebase** Authentication
 * **React Router** to navigate between login, register and home page
