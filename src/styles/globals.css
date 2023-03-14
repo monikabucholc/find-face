@@ -381,11 +381,16 @@ ul {
 }
 
 @media all and (max-width: 900px) {
+  .background-solid {
+    opacity: 0.8;
+  }
   .login-container {
     margin: 6rem 0;
   }
-
-  .background-face {
+  .background-faces {
+    opacity: 0.4;
+  }
+  .background-face:last-child {
     display: none;
   }
   .stats-name{
