@@ -19,7 +19,7 @@ Add photo URL and detect faces with **Find Face**. The app uses photo recognitio
 ## Motivation ##
 Idea and main concept of this project is from Zero to Mastery course which I took previously. Since then I have adapted and rebuilt it, to learn new techniques and pracitce the ones learned on the course. I wanted to learn and practice:
 * **React Hooks**
-* **Clarifai API**
+* **REST API**
 * **Asynchronicity** 
 
 First version of this project, which I've built following the course used **Node.js** + **Express.js** to set up the server and **PostgreSQL** for database. While remaking the project once again on my own I have decided to try something else:
